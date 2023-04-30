@@ -28,7 +28,10 @@
 # git branch nombrerama => crear una nueva rama para probar funcionalidades sin afectar la de produccion
 git switch nombrerama => moverse entre las ramas
 git merge nombredelarama => me permite actualizar los cambios de una rama a otra
-git stash => codigo que no se quiere aun hacer commit pero se esta editando aun
+git stash => codigo que no se quiere aun hacer commit pero se esta editando aun}
+git stash pop => recupero la informacion con la que estaba trabajando
+git stash prop => elimina todo lo que quedo de manera temporal
+git diff nombredelarama => verificar si hay algun conflicto
 """
 
 
