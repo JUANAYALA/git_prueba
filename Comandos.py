@@ -6,6 +6,7 @@
 # git config --global user.mail "correo electronico"
 # git init => me permite inicializar git
 # Ramas es un conjunto de archivos almacenados en un lugar especifico
+# git branch => lista de las ramas
 # git branch -m nombre de la rama => renombrar la rama en la que estamos
 # git status => estado de las ramas
 # git add => me perite agregar archivos a la rama
@@ -26,12 +27,13 @@
 # git tag nombre=> crea una etiqueta de lo que representa una version
 # git checkout tags/nombredeltag
 # git branch nombrerama => crear una nueva rama para probar funcionalidades sin afectar la de produccion
-git switch nombrerama => moverse entre las ramas
-git merge nombredelarama => me permite actualizar los cambios de una rama a otra
-git stash => codigo que no se quiere aun hacer commit pero se esta editando aun}
-git stash pop => recupero la informacion con la que estaba trabajando
-git stash prop => elimina todo lo que quedo de manera temporal
-git diff nombredelarama => verificar si hay algun conflicto
+# git switch nombrerama => moverse entre las ramas
+# git merge nombredelarama => me permite actualizar los cambios de una rama a otra
+# git stash => codigo que no se quiere aun hacer commit pero se esta editando aun}
+# git stash pop => recupero la informacion con la que estaba trabajando
+# git stash prop => elimina todo lo que quedo de manera temporal
+# git diff nombredelarama => verificar si hay algun conflicto
+# git branch -d nombrerama => eliminar las ramas que no usaremos mas
 """
 
 
