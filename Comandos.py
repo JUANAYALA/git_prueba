@@ -16,6 +16,7 @@
 # .gitignore => ficheros que no queremos tener en cuenta (**/. nombrearchivo)
 # git diff => mirar los cambios que se han hecho respecto al ultimo commit
 # git checkout numero del hash => me permite moverme en los diferentes commits realizados
+prueba del commi4
 
 """
 
