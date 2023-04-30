@@ -10,7 +10,7 @@
 # git add => me perite agregar archivos a la rama
 # git commit -m "comentario"  => me permite lanzar los cambios a algo real
 # git log => historial de los commits que se han hecho
-# git checkout => devuelve todos los cambios hasta el ultimo commit
+# git checkout => situarnos en un punto concreto del ultimo commit
 # git reset => me permite saber cuales archivos no se han guardado
 # git config --global alias.nombredelalias "configuracion" => me permite almacenar comandos personalizados
 # .gitignore => ficheros que no queremos tener en cuenta (**/. nombrearchivo)
@@ -19,7 +19,7 @@
 # git nombredelalias
 # git reset --hard iddelhashdonde me quiero situar => elimina los commit despues de cierto punto
 # git reflog => me permite ver el historial de todo los commit eliminados
-
+# git tag nombre=> crea una etiqueta de lo que representa una version
 """
 
 
