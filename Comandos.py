@@ -16,7 +16,9 @@
 # .gitignore => ficheros que no queremos tener en cuenta (**/. nombrearchivo)
 # git diff => mirar los cambios que se han hecho respecto al ultimo commit
 # git checkout numero del hash => me permite moverme en los diferentes commits realizados
-prueba del commi4
+# git nombredelalias
+# git reset --hard iddelhashdonde me quiero situar => elimina los commit despues de cierto punto
+# git reflog => me permite ver el historial de todo los commit eliminados
 
 """
 
