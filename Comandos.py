@@ -10,7 +10,7 @@
 # git status => estado de las ramas
 # git add => me perite agregar archivos a la rama
 # git commit -m "comentario"  => me permite lanzar los cambios a algo real
-# git log => historial de los commits que se han hecho
+# git log --graph --decorate --all --onelist => historial de los commits que se han hecho
 # git checkout => situarnos en un punto concreto del ultimo commit
 # git checkout main => situarnos en el main
 # git reset => me permite saber cuales archivos no se han guardado
