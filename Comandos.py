@@ -28,6 +28,7 @@
 # git branch nombrerama => crear una nueva rama para probar funcionalidades sin afectar la de produccion
 git switch nombrerama => moverse entre las ramas
 git merge nombredelarama => me permite actualizar los cambios de una rama a otra
+
 """
 
 
