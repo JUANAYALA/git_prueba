@@ -34,6 +34,11 @@
 # git stash prop => elimina todo lo que quedo de manera temporal
 # git diff nombredelarama => verificar si hay algun conflicto
 # git branch -d nombrerama => eliminar las ramas que no usaremos mas
-"""
+
+//*****************************************   TERCERA PARTE  *******************************************
+
+# git remote -> conectar el lugar donde se va a subir el poryecto
+# git push -u origin main -> subir el proyecto
+""" 
 
 
