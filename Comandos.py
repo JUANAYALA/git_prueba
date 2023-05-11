@@ -39,6 +39,9 @@
 
 # git remote -> conectar el lugar donde se va a subir el poryecto
 # git push -u origin main -> subir el proyecto
+# gt fetch -> para estar al tanto de todos los cambios pero no descarga los cambios
+# git pull -> descarga el historial de cambios y los cambios
+# git clone -> clonar un repositorio
 """ 
 
 
